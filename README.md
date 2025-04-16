@@ -11,7 +11,9 @@ O programa exibirá o valor do IMC e a classificação correspondente.
 
 ### Requisitos
 Python 3.x
-Estrutura do projeto calculadora_imc.py: Script principal com as funções para calcular e classificar o IMC.
+
+### Estrutura do projeto
+calculadora_imc.py: Script principal com as funções para calcular e classificar o IMC.
 
 ### Exemplo de saída
 === Calculadora de IMC ===
