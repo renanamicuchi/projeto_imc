@@ -1,0 +1,1 @@
+from .imc import calcular_imc, classificar_imc, main
