@@ -1,10 +1,2 @@
-# Calculadora de IMC
-
-## Descrição
-
-Este é um pacote Python que calcula o Índice de Massa Corporal (IMC) com base no peso e altura fornecidos, classificando o resultado em categorias de peso.
-
-## Instalação
-
-```bash
-pip install calculadora-imc
+Calculadora de IMC / BMI Calculator
+Script simples em Python que calcula o Índice de Massa Corporal a partir de peso (kg) e altura (m) e classifica o resultado em faixas (baixo peso, normal, sobrepeso, obesidade).
